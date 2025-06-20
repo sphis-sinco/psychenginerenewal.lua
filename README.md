@@ -1,4 +1,4 @@
-# Psych Engine Lua Script API
+# Psych Engine Renewal Lua Script API
  
 ## Special Thanks to Contributors
 * LarryFrost - Pointing out countless errors in the Wiki.
